@@ -1,6 +1,6 @@
 # Proyecto Milei
 
-## Programa de Ingeniería Industrial
+### Programa de Ingeniería Industrial
 
 # Integrantes:
 - David Villegas Ceballos
